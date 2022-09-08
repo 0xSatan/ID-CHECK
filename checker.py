@@ -22,7 +22,7 @@ print("""
 
      [ Made By 0xSatan ]
      [ + ] Telegram : s9tan
-     [ + ] Instagram : satan2evil
+     [ + ] Instagram : yjxf / vpns.lost
 
 
 """)
